@@ -1,0 +1,70 @@
+{
+  "roots": [
+    {
+      "key": "61vh3qb7owg5f472h5dyeay",
+      "title": "Cyber Class Notes",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "cyber",
+      "children": []
+    },
+    {
+      "key": "yez11bcguulxusiwtos1r2x",
+      "title": "Practice Tests",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "cyber",
+      "children": [
+        {
+          "key": "8su7ijvn3bea932t4h8st3l",
+          "title": "Exam Compass",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cyber",
+          "children": [
+            {
+              "key": "3a8jqf7s0zp3apgujmt8rxz",
+              "title": "1101",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "cyber",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "u7y5kn66iefqebmdp29qdrv",
+          "title": "Test Guide",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "cyber",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "l1goly4kiyvtmqhtm2gk6ll",
+      "title": "Professer Messer",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "cyber",
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "61vh3qb7owg5f472h5dyeay": null,
+    "yez11bcguulxusiwtos1r2x": null,
+    "8su7ijvn3bea932t4h8st3l": "yez11bcguulxusiwtos1r2x",
+    "3a8jqf7s0zp3apgujmt8rxz": "8su7ijvn3bea932t4h8st3l",
+    "u7y5kn66iefqebmdp29qdrv": "yez11bcguulxusiwtos1r2x",
+    "l1goly4kiyvtmqhtm2gk6ll": null
+  },
+  "notesLabelById": {
+    "61vh3qb7owg5f472h5dyeay": "Cyber Class Notes",
+    "yez11bcguulxusiwtos1r2x": "Practice Tests",
+    "8su7ijvn3bea932t4h8st3l": "Exam Compass",
+    "3a8jqf7s0zp3apgujmt8rxz": "1101",
+    "u7y5kn66iefqebmdp29qdrv": "Test Guide",
+    "l1goly4kiyvtmqhtm2gk6ll": "Professer Messer"
+  }
+}
